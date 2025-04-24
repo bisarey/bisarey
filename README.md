@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @bisarey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Bisa Rey  
+**ServiceNow Developer | ITSM Specialist | Workflow Automation Enthusiast**
 
-<!---
-bisarey/bisarey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Areas of Interest**  
+- ServiceNow Development & Customization  
+- ITSM, ITOM, and ITBM Modules  
+- Business Rules, Workflows, and Script Includes  
+- Service Portal Design and UX Enhancements  
+- Integration with REST/SOAP APIs  
+- CMDB and Incident Management Best Practices  
+
+**Currently Learning**  
+- Flow Designer & IntegrationHub  
+- Automated Testing Framework (ATF)  
+- ServiceNow Security and Access Control  
+- AI/ML Integration with ServiceNow  
+
+**Looking to Collaborate On**  
+- Custom ServiceNow apps  
+- ServiceNow automation and integrations  
+- Community-driven ServiceNow solutions
+  
+**Contact**  
+- Email: reybisa8@gmail.com
